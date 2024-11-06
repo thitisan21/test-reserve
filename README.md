@@ -22,6 +22,8 @@ $ pnpm run start:prod
 
 ## Run tests
 
+You can run with test or you can use swagger by http://localhost:{port}/api. 
+
 ```bash
 # unit tests
 $ pnpm run test
